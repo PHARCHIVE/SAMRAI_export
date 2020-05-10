@@ -1,0 +1,1 @@
+ split -b 50M samrai_export.zip samrai_export.zip.part.

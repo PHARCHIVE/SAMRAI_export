@@ -1,0 +1,1 @@
+ cat samrai_export.zip.part.* >  samrai_export.zip

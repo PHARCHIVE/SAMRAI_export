@@ -1,0 +1,1 @@
+unzip samrai_export.zip
